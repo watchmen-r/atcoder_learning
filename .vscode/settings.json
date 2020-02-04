@@ -2,6 +2,13 @@
     "files.associations": {
         "iostream": "cpp",
         "ostream": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "valarray": "cpp"
     }
 }
